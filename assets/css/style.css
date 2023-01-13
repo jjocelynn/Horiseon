@@ -67,16 +67,6 @@ p {
 }
 
 /*stylizing the content section within the main section */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 #content {
     width: 75%;
     display: inline-block;
@@ -94,6 +84,16 @@ p {
 
 .content-options img {
     max-height: 200px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .content-options h2 {
