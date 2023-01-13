@@ -2,7 +2,10 @@
 
 ## Description
 
-Horiseon is an online social media manegement company that helps businesses navagiate and optimize their online presence to maximize visibility and find the right customers. Through services like Search Engine Optimization, Online Reputation Management, and Social Media Marketing, Horiseon strtegically brings customers organically to your business while boosting your search ranking thereby saving you time and money.
+Horiseon is an online social media management company that helps businesses navagiate and optimize their online presence to maximize visibility and find the right customers. Through services like Search Engine Optimization, Online Reputation Management, and Social Media Marketing, Horiseon strtegically brings customers organically to your business while boosting your search ranking thereby saving you time and money.
+
+## Deployed Application
+https://jjocelynn.github.io/module-1-challenge/
 
 ## Usage
 
